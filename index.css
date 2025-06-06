@@ -1,0 +1,69 @@
+.box {
+  border-radius: 10px;
+  padding: 5px;
+  margin: 20px;
+  max-width: 400px;
+  background-color: white;
+}
+
+.title {
+  padding-bottom: 1px;
+  margin-bottom: 0.1px;
+  padding-left: 5px;
+}
+
+.subtitle {
+  padding-left: 5px;
+  padding-top: 0.1px;
+  margin-top: 0px;
+}
+
+body {
+  background-color: #ee8f23;
+  font-family: sans-serif;
+}
+
+p {
+  padding-left: 10px;
+  margin-top: 7px;
+  margin-bottom: 1px;
+}
+
+h1 {
+  font-family: serif;
+}
+
+h2 {
+  font-family: serif;
+  padding-left: 10px;
+  margin-bottom: 0px;
+}
+
+.newprice {
+  font-size: 1.8em;
+  color: green;
+  margin-bottom: 15px;
+  margin-top: 10px;
+  padding-top: 0.5px;
+  font-family: serif;
+}
+
+.oldprice {
+  color: rgb(244, 36, 36);
+  font-family: serif;
+  font-size: 0.6em;
+}
+
+.add_cart_button {
+  background-color: rgb(24, 164, 24);
+  border-radius: 10px;
+  border-color: rgb(24, 164, 24);
+  color: white;
+  width: 100%;
+  padding: 10px;
+  font-size: 0.9em;
+  cursor: pointer;
+}
+.add_cart_button:hover {
+  background-color: rgb(29, 127, 29);
+}
